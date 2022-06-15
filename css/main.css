@@ -293,6 +293,16 @@ form span{
                              "p3 p4"
                              "p5 p6";
     }
+    .ultIngresos img{
+        width: 8rem;
+        height: 8rem;
+    }
+    .flecha img{
+        height: 1rem;
+        width: 1rem;
+    
+    
+    }
     footer h3{
         font-size: 0.8rem ;
     }
@@ -313,7 +323,9 @@ form span{
                              "p4"
                              "p5"
                              "p6";
+                             
     }
+  
     .ultIngresos{
         grid-template-columns: 1fr 1fr 1fr;
         grid-template-areas: "titulo2 titulo2 titulo2"
